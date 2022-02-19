@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    include: passwd
+  mail:
+    host: smtp.163.com
+    port: 465
+    # username:
+    # password:
+    protocol: smtp
+    properties:
+      mail:
+        smtp:
+          ssl:
+            enable: true
