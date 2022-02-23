@@ -10,7 +10,6 @@ import org.springframework.boot.test.context.SpringBootTest;
  * @Date 2022/2/19 15:38
  * @Version 1.0
  */
-
 @SpringBootTest
 public class MailTests {
 
